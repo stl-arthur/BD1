@@ -1,4 +1,4 @@
-# Diagrama de Entidade-Relacionamento - Oficina Mecânica
+# **Diagrama de Entidade-Relacionamento - Oficina Mecânica**
 
 ## Objetivo
 O objetivo principal desta atividade prática é elaborar um Diagrama de Entidade-Relacionamento (DER)
