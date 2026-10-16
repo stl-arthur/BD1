@@ -53,7 +53,9 @@ efetivo da peça (preço cobrado de acordo com quantidade) e a quantidade da pe�
 ### Generalização/Especialização
 Na entidade 'Funcionário' (entidade genérica) houve uma especialização,
 separando funcionário em mecânico e atendente.
+
 **Mecânico:** Na especificação de mecânico temos o atributo de especialidade, que condiz com a área em que o mecânico atua
+
 **Atendente:** Na especificação de atendente temos o atributo do ramal
 
 Em ambas especializações de funcionário são herdados todos os atributos que a entidade funcionário possui.
