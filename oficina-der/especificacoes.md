@@ -17,6 +17,6 @@ em aula, sendo eles:
 ## Execução
 
 ### Entidades e Atributos
-* **Cliente:**código - Identificador, telefone, email, nome.
-* **Veículo:**placa - Identificador, modelo, ano, quilometragem.
-* **Ordem de Serviço**número - Identificador, dt_abertura, dt_encerramento, status
+* **Cliente:** código - Identificador, telefone, email, nome.
+* **Veículo:** placa - Identificador, modelo, ano, quilometragem.
+* **Ordem de Serviço** número - Identificador, dt_abertura, dt_encerramento, status
